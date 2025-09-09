@@ -1,0 +1,13 @@
+name = "Freshly"
+author = "Ayes"
+version = "0.0.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "11341b279402a8c71ec4049b448f3fbcff22f706c3d87c104db7d59349a6d17a"
+
+[versions]
+fabric = "0.17.2"
+minecraft = "1.21.1"

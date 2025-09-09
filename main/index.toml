@@ -1,0 +1,26 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "39792a11da59cebc770f3918dd0ad53637bcbd206dc19bfa6709392bfd2d1830"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "8ab145d5746ea395c37aeb7c48d3da6c60664c9c3a172e433892978c809a6ec3"
+metafile = true
+
+[[files]]
+file = "mods/ftb-library-fabric.pw.toml"
+hash = "ef20666eaf0bda9d8d8865f4795f7defd59d14ac7e308f565dec4c737cfc4689"
+metafile = true
+
+[[files]]
+file = "mods/ftb-quests-fabric.pw.toml"
+hash = "6d2b3bcbe3969eb5c87bde85ec22e888482eba7f8b09efa4a6f5bf76bd5c07d2"
+metafile = true
+
+[[files]]
+file = "mods/ftb-teams-fabric.pw.toml"
+hash = "d044becd4ca2446f05b71116ccbdf02f4be71e37e53af1a7d516881d40a6ba08"
+metafile = true
